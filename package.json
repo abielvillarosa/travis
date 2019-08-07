@@ -22,6 +22,14 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-strongloop": "^2.1.0",
-    "vows": "latest"
-  }
+    "vows": "^0.8.2"
+  },
+  "bugs": {
+    "url": "https://github.com/travis-ci/travis-ci-node.js-example/issues"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "license": "ISC"
 }
